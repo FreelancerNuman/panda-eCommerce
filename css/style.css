@@ -1,0 +1,48 @@
+.primary-color {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.price-color {
+  color: #ff136f;
+}
+.panda-card {
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+  border-radius: 10px !important;
+}
+.categories img {
+  width: 100px;
+}
+.categorie-watch {
+  background-color: #ffa500;
+  border-radius: 10px;
+}
+.categorie-bag {
+  background-color: #da70d6;
+  border-radius: 10px;
+}
+.categorie-shoe {
+  background-color: #0000ff;
+  border-radius: 10px;
+}
+.buy-now-btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.sub-box h1 {
+  color: #212529;
+  font-size: 28px;
+}
+.sub-box p {
+  color: #808080;
+}
